@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 3a527add918d85d4baa5188ced189d0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformtilesround_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3685ee5521784a4e928f361aacbd838
+      internalID: -597589846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf3730af27f4548af7b1358b2975be
+      internalID: -1459997028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf020a068ad0204f996dd29aef68838
+      internalID: 250652488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0085ea2a3542a46bdd4ff2147ab999
+      internalID: -1482798990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01265c924403f48428a72f6df26f8d40
+      internalID: -1727472543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 465.3333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b41c52adb63a4c48905cbd59767244c
+      internalID: 1392392522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb014a9e2529045b9dda03235adfe0
+      internalID: 1740973437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b1916df42871498527a985dd7dbca
+      internalID: -770868417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1995b7f730892224aa8f52842277e8e8
+      internalID: 2146063838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92abb671ad2c7164d95e68f0903e4ad5
+      internalID: -932695665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_10
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6441107e5efd469606f1832fb53ec
+      internalID: 937927115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_11
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 233.33333
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f28a7a5fd7f742a52738292d9fca6
+      internalID: -1154985376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f15c6dd4a5ebd4f806d63879a33aff
+      internalID: 2071176955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339634eb0f653e45bf9b3e36e31fbb4
+      internalID: 101730730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660fae3ff9178fd4cabf9ce0cd50e76a
+      internalID: 815525825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d3b18c4276e64faf808d9b2e676f4
+      internalID: 1922862067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d2502ca589f7943aa078316efc08a7
+      internalID: 479484856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformtilesround_17
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1.3333282
+        width: 234.66667
+        height: 232.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe753d345124d448b8b25b22eba6ddf
+      internalID: -597929310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 689ab3934a9b2e740a1d7b40a102215d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      platformtilesround_0: -597589846
+      platformtilesround_1: -1459997028
+      platformtilesround_10: 937927115
+      platformtilesround_11: -1154985376
+      platformtilesround_12: 2071176955
+      platformtilesround_13: 101730730
+      platformtilesround_14: 815525825
+      platformtilesround_15: 1922862067
+      platformtilesround_16: 479484856
+      platformtilesround_17: -597929310
+      platformtilesround_2: 250652488
+      platformtilesround_3: -1482798990
+      platformtilesround_4: -1727472543
+      platformtilesround_5: 1392392522
+      platformtilesround_6: 1740973437
+      platformtilesround_7: -770868417
+      platformtilesround_8: 2146063838
+      platformtilesround_9: -932695665
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
